@@ -16,6 +16,7 @@ CHECK(length (username) = 6),
 CHECK (expertise IN("programming", "gaming", "baking", "crafts", "makeup", "clothes"))
 
 
+/*Excellent!!*/
 
 /* Adding validation to the table from the datadictionary*/
 
